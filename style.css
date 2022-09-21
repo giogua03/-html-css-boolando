@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+}
+
+header {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+}
+
+#container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.logo {
+    height: 30px;
+}
+
+.menu li {
+    padding: 1em;
+}
