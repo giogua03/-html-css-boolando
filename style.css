@@ -22,6 +22,9 @@ header {
     height: 30px;
 }
 
-.menu li {
-    padding: 1em;
+.menu  {
+    justify-content: space-between;
+}
+.lista1 li{
+
 }
